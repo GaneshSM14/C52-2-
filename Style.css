@@ -1,0 +1,41 @@
+*{
+    background-color: aqua;
+    border: dotted;
+    font-size: xx-large;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+img{
+    border: double;
+}
+.Starters{
+    font-size: xx-large;
+    font-weight: 300;
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.Frenchfries{
+    background-color: aquamarine;
+}
+.Car{
+    background-color: azure;
+}
+.Maincourse{
+    font-size: xx-large;
+    font-weight: 300;
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.Deserts{
+    font-size: xx-large;
+    font-weight: 300;
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+a:link{
+    color: blue;
+}
+a:visited{
+    color: cadetblue;
+}
